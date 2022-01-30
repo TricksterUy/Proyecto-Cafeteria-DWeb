@@ -1,0 +1,40 @@
+*
+{
+margin: 0;
+font-family:sSanthony;
+}
+
+@font-face
+{
+font-family:sSanthony;
+src:url(fuentes/sSanthony.ttf);
+}
+
+
+
+img
+{
+	max-width:100%;
+	height:auto;
+}
+
+body
+{
+	background:#06101b;
+}
+
+header
+{
+	color: #FFF;
+	padding: 20px;
+	font-size:18px;
+	background:#40556b;
+}
+
+ul, li
+{
+	color:  #FFC300 ;
+	list-style: none;
+	letter-spacing: 1px;
+	display: inline-block;
+}
